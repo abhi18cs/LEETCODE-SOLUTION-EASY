@@ -7,7 +7,7 @@ lskclass Solution {
             max_profit=Math.max(max_profit,profit);
         }
         return max_profit;
-    }
+    }nennsns
 }
 ,sbldb
 dkldlks
